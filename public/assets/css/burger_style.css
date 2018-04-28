@@ -1,0 +1,32 @@
+* {
+	text-align: center;
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 40px;
+	background-image: url("../img/background.png");
+	font-family: 'Amatic SC', cursive;
+}
+
+.container {
+	background-color:white;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 70px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 50px;
+}
+
+li {
+	list-style-type: none;
+}
+
+button {
+	font-size: 30px;
+}
